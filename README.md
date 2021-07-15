@@ -20,5 +20,7 @@ https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 4. Using JSON reader, you can view the data properly. Fetch poster path. Using which you are going to fetch the posters.
 5. In your localhost, you are going to see the Movie-Recommendation-System as shown below.
 
+# Output
+![MovieRecSys](https://user-images.githubusercontent.com/85541665/125735728-0553db74-4626-469c-bc31-9e50df84a751.png)
 
 
